@@ -1,0 +1,501 @@
+transaction_id,date,vendor_name,description,amount,department,category
+1001,2024-02-22,DHL Express,domestic shipping services,7910.64,Sales,Logistics/Freight
+1002,2024-04-21,Maersk,international freight QQ4,3655.54,HR,Logistics/Freight
+1003,2024-11-28,Mercer,payroll processing,9555.83,Sales,HR & Training
+1004,2024-01-04,Publicis Media,social media management,20300.49,IT,Marketing
+1005,2024-06-21,Dentsu Inc,brand strategy project,16842.26,Finance,Marketing
+1006,2024-11-05,XPO Logistics,warehouse storage fees,21644.88,Marketing,Logistics/Freight
+1007,2024-05-30,Amazon Business,ergonomic chairs,1091.0,Executive,Office Supplies
+1008,2024-04-26,Celanese,polymer resin batch,13132.33,Marketing,Raw Materials
+1009,2024-11-21,FedEx Freight,last-mile delivery,9115.42,Procurement,Logistics/Freight
+1010,2024-12-25,Adobe Systems,cloud computing QQ3,55263.14,Finance,IT Software
+1011,2024-05-18,UnitedHealth Group,dental and vision coverage,100518.14,Sales,Healthcare & Benefits
+1012,2024-06-10,Accenture,audit and advisory fees,125052.36,R&D,Professional Services
+1013,2024-06-10,CBRE Group,security services,26538.29,HR,Facilities
+1014,2024-05-06,Hilton Worldwide,sales team flights,4708.32,Sales,Travel
+1015,2024-04-22,Workday Inc,payroll processing,17177.22,IT,HR & Training
+1016,2024-03-19,ADP Workforce,employee training program,34721.91,IT,HR & Training
+1017,2024-08-27,Omnicom Group,creative production,25989.06,Sales,Marketing
+1018,2024-10-01,ABM Industries,building maintenance contract,21087.89,Marketing,Facilities
+1019,2024-01-02,3M Company,adhesives and solvents,25713.67,Marketing,Raw Materials
+1020,2024-09-16,Coursera Business,benefits administration,33983.44,Executive,HR & Training
+1021,2024-09-28,McKinsey & Co,audit and advisory fees,85513.06,Operations,Professional Services
+1022,2024-07-04,CVS Caremark,employee health insurance QQ4,35695.53,Marketing,Healthcare & Benefits
+1023,2024-02-13,Deloitte Consulting,tax advisory services,142572.92,Legal,Professional Services
+1024,2024-10-08,Maersk,domestic shipping services,17514.52,IT,Logistics/Freight
+1025,2024-12-19,ABM Industries,janitorial services,28009.58,HR,Facilities
+1026,2024-08-19,Sodexo,cafeteria management QQ3,27189.19,Finance,Facilities
+1027,2024-10-10,McKinsey & Co,legal counsel services,12944.8,HR,Professional Services
+1028,2024-01-31,UnitedHealth Group,employee health insurance QQ1,145950.58,HR,Healthcare & Benefits
+1029,2024-05-22,DHL Express,international freight QQ3,14311.43,Legal,Logistics/Freight
+1030,2024-05-04,KPMG,tax advisory services,90669.63,Legal,Professional Services
+1031,2024-06-30,Publicis Media,digital advertising campaign,41244.05,R&D,Marketing
+1032,2024-06-22,IPG Mediabrands,digital advertising campaign,8333.7,Finance,Marketing
+1033,2024-08-04,McKinsey & Co,tax advisory services,72805.9,IT,Professional Services
+1034,2024-10-08,Sodexo,building maintenance contract,14407.66,Finance,Facilities
+1035,2024-05-01,Quill Corp,office supplies bulk order,7447.75,IT,Office Supplies
+1036,2024-01-31,IPG Mediabrands,brand strategy project,52555.77,IT,Marketing
+1037,2024-08-20,WPP Group,media buying QQ4,55958.49,Marketing,Marketing
+1038,2024-04-21,Omnicom Group,brand strategy project,15444.38,Operations,Marketing
+1039,2024-10-26,MetLife,prescription drug plan,25575.58,Legal,Healthcare & Benefits
+1040,2024-02-11,Mercer,employee training program,38509.6,IT,HR & Training
+1041,2024-10-18,Maersk,domestic shipping services,11883.06,HR,Logistics/Freight
+1042,2024-12-02,MetLife,life insurance premium,30166.93,Executive,Healthcare & Benefits
+1043,2024-06-09,MetLife,prescription drug plan,52787.95,HR,Healthcare & Benefits
+1044,2024-02-07,Sodexo,HVAC repair and maintenance,14802.29,Operations,Facilities
+1045,2024-09-16,Hertz,executive travel QQ1,8526.88,Marketing,Travel
+1046,2024-03-21,Adobe Systems,cloud computing QQ1,32714.53,Legal,IT Software
+1047,2024-12-05,Workday Inc,payroll processing,13376.39,Finance,HR & Training
+1048,2024-03-20,Adobe Systems,annual software license renewal,60681.25,Marketing,IT Software
+1049,2024-11-20,ABM Industries,HVAC repair and maintenance,7700.72,Marketing,Facilities
+1050,2024-08-04,ADP Workforce,employee training program,5507.34,Marketing,HR & Training
+1051,2024-05-14,Staples Inc,printer cartridges QQ3,5278.35,IT,Office Supplies
+1052,2024-02-08,Hertz,conference registration,1135.38,IT,Travel
+1053,2024-08-08,LinkedIn Learning,payroll processing,22995.95,IT,HR & Training
+1054,2024-04-17,W.B. Mason,office supplies bulk order,7241.93,HR,Office Supplies
+1055,2024-05-01,UPS Supply Chain,freight forwarding services,19488.51,IT,Logistics/Freight
+1056,2024-06-19,ServiceNow,cloud computing QQ1,60242.34,R&D,IT Software
+1057,2024-01-20,Accenture,management consulting project,63555.84,Legal,Professional Services
+1058,2024-04-26,McKinsey & Co,legal counsel services,52726.72,HR,Professional Services
+1059,2024-02-05,Office Depot,stationery and paper,2589.52,Marketing,Office Supplies
+1060,2024-01-15,Celanese,packaging materials,45088.79,Finance,Raw Materials
+1061,2024-08-10,Jones Lang LaSalle,building maintenance contract,5035.27,Procurement,Facilities
+1062,2024-04-07,Honeywell Materials,adhesives and solvents,108744.53,Marketing,Raw Materials
+1063,2024-10-02,Amazon Business,whiteboard supplies,7441.81,HR,Office Supplies
+1064,2024-12-05,Honeywell Materials,specialty materials QQ1,77793.41,Finance,Raw Materials
+1065,2024-12-22,ABM Industries,cafeteria management QQ3,11133.12,Marketing,Facilities
+1066,2024-07-13,Coursera Business,recruitment services QQ2,27267.32,IT,HR & Training
+1067,2024-01-01,MetLife,wellness program,116368.38,Marketing,Healthcare & Benefits
+1068,2024-06-13,Jones Lang LaSalle,security services,18986.52,Legal,Facilities
+1069,2024-03-27,Hilton Worldwide,conference registration,7624.61,Finance,Travel
+1070,2024-04-30,ABM Industries,building maintenance contract,24915.86,Marketing,Facilities
+1071,2024-08-31,McKinsey & Co,management consulting project,16469.92,Executive,Professional Services
+1072,2024-12-22,XPO Logistics,freight forwarding services,7277.58,R&D,Logistics/Freight
+1073,2024-01-03,Hilton Worldwide,sales team flights,10184.81,Finance,Travel
+1074,2024-10-12,Publicis Media,social media management,30550.24,HR,Marketing
+1075,2024-10-13,XPO Logistics,last-mile delivery,17686.71,Executive,Logistics/Freight
+1076,2024-03-22,Honeywell Materials,packaging materials,57942.32,Legal,Raw Materials
+1077,2024-09-23,United Airlines,hotel accommodations,11721.39,Legal,Travel
+1078,2024-04-30,Accenture,management consulting project,109896.28,Marketing,Professional Services
+1079,2024-07-15,Dow Chemical,chemical feedstock order,24893.03,IT,Raw Materials
+1080,2024-08-26,Deloitte Consulting,strategy engagement QQ4,56323.39,R&D,Professional Services
+1081,2024-10-26,Office Depot,ergonomic chairs,7286.29,Operations,Office Supplies
+1082,2024-06-01,Cigna Corp,employee health insurance QQ4,189407.21,R&D,Healthcare & Benefits
+1083,2024-08-11,Omnicom Group,creative production,17068.19,Legal,Marketing
+1084,2024-08-27,Amazon Business,ergonomic chairs,5931.36,IT,Office Supplies
+1085,2024-12-05,MetLife,wellness program,124500.16,Operations,Healthcare & Benefits
+1086,2024-05-13,XPO Logistics,last-mile delivery,6998.04,R&D,Logistics/Freight
+1087,2024-07-13,BASF Corp,specialty materials QQ4,45800.06,Marketing,Raw Materials
+1088,2024-10-03,Dentsu Inc,creative production,6066.08,Operations,Marketing
+1089,2024-05-06,BASF Corp,polymer resin batch,92474.12,HR,Raw Materials
+1090,2024-12-08,Quill Corp,printer cartridges QQ2,1446.66,Finance,Office Supplies
+1091,2024-03-26,UnitedHealth Group,prescription drug plan,156876.15,Executive,Healthcare & Benefits
+1092,2024-01-14,Aetna Health,prescription drug plan,34998.27,Marketing,Healthcare & Benefits
+1093,2024-12-19,Cigna Corp,dental and vision coverage,29059.35,HR,Healthcare & Benefits
+1094,2024-06-26,UPS Supply Chain,freight forwarding services,20217.98,Sales,Logistics/Freight
+1095,2024-01-07,Dentsu Inc,social media management,40614.88,R&D,Marketing
+1096,2024-08-23,American Airlines,hotel accommodations,9898.19,IT,Travel
+1097,2024-10-02,Publicis Media,social media management,49450.96,Legal,Marketing
+1098,2024-02-14,Hilton Worldwide,hotel accommodations,12923.98,Marketing,Travel
+1099,2024-07-13,Marriott Hotels,conference registration,9544.64,Procurement,Travel
+1100,2024-06-30,Amazon Business,printer cartridges QQ3,4156.62,Marketing,Office Supplies
+1101,2024-04-07,Dow Chemical,packaging materials,9136.92,Finance,Raw Materials
+1102,2024-12-19,PwC Advisory,tax advisory services,116143.05,Legal,Professional Services
+1103,2024-07-26,Hilton Worldwide,executive travel QQ1,5119.3,HR,Travel
+1104,2024-06-25,ABM Industries,cafeteria management QQ3,17497.24,R&D,Facilities
+1105,2024-05-08,Workday Inc,recruitment services QQ3,12294.82,HR,HR & Training
+1106,2024-12-19,FedEx Freight,international freight QQ3,19343.38,IT,Logistics/Freight
+1107,2024-09-25,McKinsey & Co,legal counsel services,111441.9,Executive,Professional Services
+1108,2024-04-01,CBRE Group,HVAC repair and maintenance,8369.53,Marketing,Facilities
+1109,2024-01-28,Quill Corp,stationery and paper,841.37,Sales,Office Supplies
+1110,2024-10-20,Jones Lang LaSalle,building maintenance contract,26436.15,Marketing,Facilities
+1111,2024-01-27,Hilton Worldwide,hotel accommodations,3581.09,Marketing,Travel
+1112,2024-10-22,American Airlines,car rentals fleet,7884.45,Operations,Travel
+1113,2024-03-01,Salesforce,annual software license renewal,79543.86,Sales,IT Software
+1114,2024-08-14,Omnicom Group,social media management,25920.79,Marketing,Marketing
+1115,2024-11-08,Cigna Corp,life insurance premium,129890.05,Finance,Healthcare & Benefits
+1116,2024-03-29,McKinsey & Co,management consulting project,31987.99,Sales,Professional Services
+1117,2024-10-31,FedEx Freight,last-mile delivery,12911.08,Legal,Logistics/Freight
+1118,2024-12-25,CBRE Group,HVAC repair and maintenance,21794.76,Legal,Facilities
+1119,2024-04-11,FedEx Freight,freight forwarding services,17546.03,R&D,Logistics/Freight
+1120,2024-03-13,Maersk,domestic shipping services,22985.05,Finance,Logistics/Freight
+1121,2024-10-18,Office Depot,whiteboard supplies,6117.18,Marketing,Office Supplies
+1122,2024-05-19,American Airlines,hotel accommodations,10796.27,Sales,Travel
+1123,2024-08-09,ADP Workforce,employee training program,24725.39,Procurement,HR & Training
+1124,2024-12-11,CVS Caremark,employee health insurance QQ1,57351.02,Executive,Healthcare & Benefits
+1125,2024-03-30,Aetna Health,life insurance premium,22442.86,Legal,Healthcare & Benefits
+1126,2024-08-11,ADP Workforce,HR software license,39883.93,Legal,HR & Training
+1127,2024-12-09,XPO Logistics,last-mile delivery,10332.78,Finance,Logistics/Freight
+1128,2024-07-24,Adobe Systems,data analytics platform,26616.33,Sales,IT Software
+1129,2024-02-29,Amazon Business,stationery and paper,2392.99,R&D,Office Supplies
+1130,2024-09-22,LinkedIn Learning,recruitment services QQ4,4059.76,Procurement,HR & Training
+1131,2024-10-08,Cigna Corp,employee health insurance QQ4,52658.27,IT,Healthcare & Benefits
+1132,2024-11-18,Sodexo,building maintenance contract,2808.34,Executive,Facilities
+1133,2024-07-27,McKinsey & Co,tax advisory services,11914.43,Finance,Professional Services
+1134,2024-03-19,Deloitte Consulting,management consulting project,100679.36,Legal,Professional Services
+1135,2024-08-29,ABM Industries,cafeteria management QQ3,25372.27,HR,Facilities
+1136,2024-11-02,Hertz,car rentals fleet,3668.55,Sales,Travel
+1137,2024-09-16,Microsoft Azure,data analytics platform,30490.64,Marketing,IT Software
+1138,2024-12-03,W.B. Mason,whiteboard supplies,4849.43,Legal,Office Supplies
+1139,2024-10-05,ServiceNow,cybersecurity tools,29933.0,R&D,IT Software
+1140,2024-04-29,United Airlines,sales team flights,9005.17,R&D,Travel
+1141,2024-12-05,W.B. Mason,ergonomic chairs,3395.59,IT,Office Supplies
+1142,2024-06-18,American Airlines,conference registration,14514.95,Finance,Travel
+1143,2024-07-28,American Airlines,executive travel QQ4,11114.21,IT,Travel
+1144,2024-07-22,XPO Logistics,warehouse storage fees,16711.71,Finance,Logistics/Freight
+1145,2024-09-06,Celanese,specialty materials QQ4,78201.51,Sales,Raw Materials
+1146,2024-05-27,Quill Corp,printer cartridges QQ1,5233.71,HR,Office Supplies
+1147,2024-12-21,XPO Logistics,international freight QQ1,12760.93,Marketing,Logistics/Freight
+1148,2024-07-10,Staples Inc,office supplies bulk order,2700.26,R&D,Office Supplies
+1149,2024-04-02,Salesforce,collaboration software,56135.03,IT,IT Software
+1150,2024-09-11,Microsoft Azure,collaboration software,56235.09,Executive,IT Software
+1151,2024-12-07,Salesforce,cybersecurity tools,39467.79,Operations,IT Software
+1152,2024-06-25,United Airlines,executive travel QQ2,7184.22,Executive,Travel
+1153,2024-04-11,Sodexo,cafeteria management QQ3,25668.51,R&D,Facilities
+1154,2024-10-21,American Airlines,car rentals fleet,9006.92,Marketing,Travel
+1155,2024-12-17,CBRE Group,HVAC repair and maintenance,2226.74,Operations,Facilities
+1156,2024-06-29,Cigna Corp,dental and vision coverage,127307.02,HR,Healthcare & Benefits
+1157,2024-11-17,KPMG,audit and advisory fees,97954.73,Operations,Professional Services
+1158,2024-03-08,Sodexo,security services,12216.11,Finance,Facilities
+1159,2024-10-03,Aramark,janitorial services,7622.25,Procurement,Facilities
+1160,2024-09-03,Mercer,HR software license,11764.86,Marketing,HR & Training
+1161,2024-04-25,3M Company,polymer resin batch,23764.79,R&D,Raw Materials
+1162,2024-10-01,Workday Inc,recruitment services QQ1,2528.91,Finance,HR & Training
+1163,2024-11-22,United Airlines,conference registration,6334.36,Procurement,Travel
+1164,2024-10-14,FedEx Freight,international freight QQ4,16630.03,Procurement,Logistics/Freight
+1165,2024-06-03,UnitedHealth Group,wellness program,183236.71,R&D,Healthcare & Benefits
+1166,2024-09-09,FedEx Freight,international freight QQ1,9696.02,Finance,Logistics/Freight
+1167,2024-12-09,FedEx Freight,last-mile delivery,12980.16,Sales,Logistics/Freight
+1168,2024-09-07,Omnicom Group,creative production,41020.7,Executive,Marketing
+1169,2024-08-15,Dentsu Inc,media buying QQ1,16949.83,HR,Marketing
+1170,2024-11-26,3M Company,packaging materials,108989.98,Procurement,Raw Materials
+1171,2024-08-20,Amazon Business,printer cartridges QQ3,7761.55,Finance,Office Supplies
+1172,2024-05-04,KPMG,management consulting project,120151.24,IT,Professional Services
+1173,2024-04-20,UnitedHealth Group,life insurance premium,53324.11,HR,Healthcare & Benefits
+1174,2024-03-15,BASF Corp,specialty materials QQ1,104141.49,IT,Raw Materials
+1175,2024-01-14,Workday Inc,employee training program,27120.19,IT,HR & Training
+1176,2024-03-30,W.B. Mason,whiteboard supplies,2928.29,Marketing,Office Supplies
+1177,2024-02-02,Office Depot,whiteboard supplies,1352.37,Legal,Office Supplies
+1178,2024-11-10,United Airlines,car rentals fleet,8053.74,Operations,Travel
+1179,2024-09-02,Workday Inc,employee training program,4311.37,R&D,HR & Training
+1180,2024-02-11,WPP Group,creative production,9041.99,Procurement,Marketing
+1181,2024-11-20,UnitedHealth Group,dental and vision coverage,65877.96,Executive,Healthcare & Benefits
+1182,2024-08-20,Workday Inc,payroll processing,22161.16,Sales,HR & Training
+1183,2024-11-29,Cigna Corp,employee health insurance QQ1,172766.66,Sales,Healthcare & Benefits
+1184,2024-08-20,PwC Advisory,audit and advisory fees,67933.9,R&D,Professional Services
+1185,2024-05-10,WPP Group,creative production,22188.8,Procurement,Marketing
+1186,2024-02-17,ServiceNow,annual software license renewal,67382.89,R&D,IT Software
+1187,2024-10-14,UPS Supply Chain,freight forwarding services,4319.58,Sales,Logistics/Freight
+1188,2024-08-04,3M Company,specialty materials QQ4,105844.03,Operations,Raw Materials
+1189,2024-09-16,ABM Industries,HVAC repair and maintenance,4900.82,HR,Facilities
+1190,2024-10-11,ServiceNow,annual software license renewal,31258.55,Procurement,IT Software
+1191,2024-11-14,UPS Supply Chain,last-mile delivery,21593.41,Executive,Logistics/Freight
+1192,2024-12-25,LinkedIn Learning,employee training program,8855.81,Marketing,HR & Training
+1193,2024-10-16,Dow Chemical,chemical feedstock order,105424.62,R&D,Raw Materials
+1194,2024-04-20,FedEx Freight,international freight QQ1,19414.46,R&D,Logistics/Freight
+1195,2024-06-15,IPG Mediabrands,brand strategy project,25352.92,Executive,Marketing
+1196,2024-11-12,Aetna Health,dental and vision coverage,44120.83,Operations,Healthcare & Benefits
+1197,2024-08-14,UPS Supply Chain,last-mile delivery,13684.56,R&D,Logistics/Freight
+1198,2024-05-25,Jones Lang LaSalle,HVAC repair and maintenance,14037.58,Executive,Facilities
+1199,2024-11-02,Hertz,executive travel QQ3,4087.26,Operations,Travel
+1200,2024-05-10,Office Depot,printer cartridges QQ3,6255.12,Marketing,Office Supplies
+1201,2024-03-30,3M Company,adhesives and solvents,91665.58,IT,Raw Materials
+1202,2024-12-08,Omnicom Group,social media management,35729.8,Procurement,Marketing
+1203,2024-02-09,XPO Logistics,last-mile delivery,3412.31,Procurement,Logistics/Freight
+1204,2024-07-26,Cigna Corp,wellness program,68560.31,Operations,Healthcare & Benefits
+1205,2024-02-24,BASF Corp,specialty materials QQ4,17870.55,HR,Raw Materials
+1206,2024-06-07,Omnicom Group,social media management,9325.59,Procurement,Marketing
+1207,2024-02-28,Accenture,management consulting project,81467.66,Sales,Professional Services
+1208,2024-11-26,Coursera Business,benefits administration,29640.41,IT,HR & Training
+1209,2024-11-04,Deloitte Consulting,legal counsel services,37618.05,IT,Professional Services
+1210,2024-10-23,FedEx Freight,last-mile delivery,19597.81,Legal,Logistics/Freight
+1211,2024-02-04,MetLife,prescription drug plan,42927.12,Legal,Healthcare & Benefits
+1212,2024-09-16,United Airlines,conference registration,1786.41,Finance,Travel
+1213,2024-05-26,Sodexo,building maintenance contract,3592.92,Finance,Facilities
+1214,2024-01-22,Maersk,last-mile delivery,15767.25,Legal,Logistics/Freight
+1215,2024-03-18,UnitedHealth Group,life insurance premium,102991.37,Operations,Healthcare & Benefits
+1216,2024-03-29,American Airlines,executive travel QQ3,8063.69,Operations,Travel
+1217,2024-03-22,PwC Advisory,tax advisory services,83184.72,Procurement,Professional Services
+1218,2024-12-13,Dow Chemical,adhesives and solvents,94740.06,Executive,Raw Materials
+1219,2024-12-13,W.B. Mason,stationery and paper,1208.79,R&D,Office Supplies
+1220,2024-12-05,Aramark,HVAC repair and maintenance,4282.06,IT,Facilities
+1221,2024-02-13,Dow Chemical,chemical feedstock order,74644.62,Marketing,Raw Materials
+1222,2024-12-16,ADP Workforce,HR software license,27464.42,Sales,HR & Training
+1223,2024-04-02,XPO Logistics,international freight QQ3,10977.15,HR,Logistics/Freight
+1224,2024-03-20,Honeywell Materials,chemical feedstock order,119997.38,Finance,Raw Materials
+1225,2024-11-12,CBRE Group,HVAC repair and maintenance,26539.0,IT,Facilities
+1226,2024-12-20,Cigna Corp,dental and vision coverage,48456.5,Executive,Healthcare & Benefits
+1227,2024-05-01,ServiceNow,data analytics platform,32322.46,Legal,IT Software
+1228,2024-06-07,CVS Caremark,dental and vision coverage,113792.06,Legal,Healthcare & Benefits
+1229,2024-07-14,Accenture,strategy engagement QQ4,117721.4,Sales,Professional Services
+1230,2024-03-11,ADP Workforce,HR software license,32447.85,Marketing,HR & Training
+1231,2024-12-30,Amazon Business,whiteboard supplies,7507.2,Sales,Office Supplies
+1232,2024-09-19,UPS Supply Chain,domestic shipping services,9001.41,IT,Logistics/Freight
+1233,2024-01-14,WPP Group,creative production,53654.64,R&D,Marketing
+1234,2024-02-11,Amazon Business,printer cartridges QQ3,3396.25,Procurement,Office Supplies
+1235,2024-11-28,Deloitte Consulting,management consulting project,127484.68,Procurement,Professional Services
+1236,2024-08-29,Salesforce,cybersecurity tools,73804.71,IT,IT Software
+1237,2024-04-20,Hilton Worldwide,executive travel QQ1,1266.05,IT,Travel
+1238,2024-05-01,Mercer,employee training program,31494.56,Marketing,HR & Training
+1239,2024-11-14,DHL Express,last-mile delivery,17056.94,Legal,Logistics/Freight
+1240,2024-11-19,DHL Express,freight forwarding services,14793.18,Sales,Logistics/Freight
+1241,2024-11-10,UnitedHealth Group,prescription drug plan,94409.2,Procurement,Healthcare & Benefits
+1242,2024-02-13,KPMG,audit and advisory fees,103011.98,Sales,Professional Services
+1243,2024-01-23,3M Company,adhesives and solvents,105813.12,R&D,Raw Materials
+1244,2024-06-25,Dow Chemical,specialty materials QQ1,96314.24,HR,Raw Materials
+1245,2024-10-06,Maersk,domestic shipping services,3975.39,Procurement,Logistics/Freight
+1246,2024-02-02,ServiceNow,cloud computing QQ4,65862.33,Legal,IT Software
+1247,2024-01-22,W.B. Mason,office supplies bulk order,6433.32,Procurement,Office Supplies
+1248,2024-01-19,ABM Industries,security services,15255.19,HR,Facilities
+1249,2024-07-07,Aramark,HVAC repair and maintenance,9650.06,R&D,Facilities
+1250,2024-09-11,IPG Mediabrands,media buying QQ4,58554.8,Legal,Marketing
+1251,2024-02-10,Celanese,polymer resin batch,89433.11,R&D,Raw Materials
+1252,2024-06-16,UnitedHealth Group,prescription drug plan,33980.61,Marketing,Healthcare & Benefits
+1253,2024-06-28,Sodexo,janitorial services,21313.41,Legal,Facilities
+1254,2024-01-30,W.B. Mason,stationery and paper,5296.02,Finance,Office Supplies
+1255,2024-11-07,Dentsu Inc,digital advertising campaign,12852.87,Legal,Marketing
+1256,2024-07-06,Office Depot,printer cartridges QQ1,6338.87,Procurement,Office Supplies
+1257,2024-08-18,Omnicom Group,social media management,13439.1,Procurement,Marketing
+1258,2024-07-06,Honeywell Materials,packaging materials,23421.85,R&D,Raw Materials
+1259,2024-04-05,Dow Chemical,polymer resin batch,10902.29,Legal,Raw Materials
+1260,2024-12-26,ADP Workforce,benefits administration,31448.65,Legal,HR & Training
+1261,2024-03-10,KPMG,strategy engagement QQ3,38024.97,Finance,Professional Services
+1262,2024-06-12,Marriott Hotels,executive travel QQ4,12347.19,Procurement,Travel
+1263,2024-12-30,Maersk,warehouse storage fees,21729.97,IT,Logistics/Freight
+1264,2024-03-12,Celanese,polymer resin batch,118334.85,HR,Raw Materials
+1265,2024-08-27,American Airlines,conference registration,9011.88,Sales,Travel
+1266,2024-09-02,Atlassian,annual software license renewal,28196.8,Sales,IT Software
+1267,2024-11-24,IPG Mediabrands,brand strategy project,58480.89,Finance,Marketing
+1268,2024-10-09,Hilton Worldwide,sales team flights,13291.44,Executive,Travel
+1269,2024-01-29,Salesforce,collaboration software,73303.42,Finance,IT Software
+1270,2024-12-29,Coursera Business,HR software license,8154.74,HR,HR & Training
+1271,2024-11-21,Celanese,polymer resin batch,36067.79,Sales,Raw Materials
+1272,2024-09-14,Jones Lang LaSalle,security services,16937.38,IT,Facilities
+1273,2024-11-05,MetLife,dental and vision coverage,136865.58,Procurement,Healthcare & Benefits
+1274,2024-11-24,Aetna Health,employee health insurance QQ1,23410.43,Executive,Healthcare & Benefits
+1275,2024-09-11,Jones Lang LaSalle,security services,19891.75,Sales,Facilities
+1276,2024-12-16,Aramark,janitorial services,24531.27,R&D,Facilities
+1277,2024-07-31,Sodexo,building maintenance contract,6426.25,Legal,Facilities
+1278,2024-06-12,Marriott Hotels,conference registration,3011.36,Procurement,Travel
+1279,2024-06-12,Publicis Media,social media management,35890.82,HR,Marketing
+1280,2024-02-19,American Airlines,car rentals fleet,4470.86,Operations,Travel
+1281,2024-03-22,Sodexo,janitorial services,28955.2,Procurement,Facilities
+1282,2024-09-20,CVS Caremark,dental and vision coverage,107179.13,Legal,Healthcare & Benefits
+1283,2024-07-20,United Airlines,executive travel QQ4,2260.69,Sales,Travel
+1284,2024-01-26,Marriott Hotels,conference registration,5940.53,Marketing,Travel
+1285,2024-02-25,Hertz,hotel accommodations,8513.67,R&D,Travel
+1286,2024-07-24,Adobe Systems,data analytics platform,32445.3,Operations,IT Software
+1287,2024-02-07,MetLife,prescription drug plan,117346.24,R&D,Healthcare & Benefits
+1288,2024-03-01,ADP Workforce,payroll processing,27855.15,IT,HR & Training
+1289,2024-07-06,XPO Logistics,warehouse storage fees,15272.3,IT,Logistics/Freight
+1290,2024-01-20,KPMG,tax advisory services,15635.69,IT,Professional Services
+1291,2024-09-20,Honeywell Materials,chemical feedstock order,75901.18,IT,Raw Materials
+1292,2024-11-11,Celanese,chemical feedstock order,52010.91,Marketing,Raw Materials
+1293,2024-01-09,CVS Caremark,life insurance premium,70461.25,Procurement,Healthcare & Benefits
+1294,2024-12-18,3M Company,packaging materials,42459.92,Operations,Raw Materials
+1295,2024-01-27,Cigna Corp,life insurance premium,121862.36,Executive,Healthcare & Benefits
+1296,2024-05-04,Marriott Hotels,sales team flights,12503.26,Operations,Travel
+1297,2024-08-02,Aetna Health,employee health insurance QQ2,96592.13,IT,Healthcare & Benefits
+1298,2024-08-29,Publicis Media,social media management,47623.48,Operations,Marketing
+1299,2024-12-05,Atlassian,collaboration software,29378.72,Legal,IT Software
+1300,2024-09-29,ADP Workforce,HR software license,19467.21,Procurement,HR & Training
+1301,2024-05-06,Workday Inc,payroll processing,20398.84,Marketing,HR & Training
+1302,2024-12-26,Workday Inc,benefits administration,31304.62,HR,HR & Training
+1303,2024-05-20,United Airlines,hotel accommodations,8846.83,Marketing,Travel
+1304,2024-03-15,Maersk,last-mile delivery,21004.3,Marketing,Logistics/Freight
+1305,2024-12-01,W.B. Mason,stationery and paper,7430.07,Marketing,Office Supplies
+1306,2024-10-14,Marriott Hotels,conference registration,4795.86,Marketing,Travel
+1307,2024-09-28,Microsoft Azure,cloud computing QQ2,8807.41,HR,IT Software
+1308,2024-08-29,Deloitte Consulting,strategy engagement QQ1,56241.11,Finance,Professional Services
+1309,2024-08-31,Microsoft Azure,data analytics platform,53966.96,Legal,IT Software
+1310,2024-02-15,Accenture,legal counsel services,100425.71,Executive,Professional Services
+1311,2024-03-31,KPMG,audit and advisory fees,68503.9,Operations,Professional Services
+1312,2024-01-05,IPG Mediabrands,media buying QQ2,53220.87,Marketing,Marketing
+1313,2024-11-24,MetLife,prescription drug plan,67643.91,Sales,Healthcare & Benefits
+1314,2024-04-08,ADP Workforce,payroll processing,19784.79,Finance,HR & Training
+1315,2024-01-08,BASF Corp,specialty materials QQ4,88483.0,Procurement,Raw Materials
+1316,2024-11-23,ABM Industries,janitorial services,19106.73,R&D,Facilities
+1317,2024-02-18,Omnicom Group,digital advertising campaign,27045.83,IT,Marketing
+1318,2024-07-15,ServiceNow,cloud computing QQ3,5512.26,HR,IT Software
+1319,2024-10-20,United Airlines,hotel accommodations,9154.45,Operations,Travel
+1320,2024-08-26,Aramark,building maintenance contract,20698.01,Marketing,Facilities
+1321,2024-05-31,ServiceNow,annual software license renewal,52903.35,Procurement,IT Software
+1322,2024-08-20,UnitedHealth Group,dental and vision coverage,103463.65,Executive,Healthcare & Benefits
+1323,2024-04-21,Honeywell Materials,packaging materials,97823.44,HR,Raw Materials
+1324,2024-02-09,Aetna Health,life insurance premium,145196.73,Executive,Healthcare & Benefits
+1325,2024-03-25,DHL Express,freight forwarding services,14806.52,Procurement,Logistics/Freight
+1326,2024-09-07,ADP Workforce,HR software license,29242.88,Finance,HR & Training
+1327,2024-07-31,ADP Workforce,recruitment services QQ1,7013.88,Legal,HR & Training
+1328,2024-07-21,Aetna Health,prescription drug plan,148806.81,Marketing,Healthcare & Benefits
+1329,2024-12-24,Office Depot,office supplies bulk order,3677.73,Finance,Office Supplies
+1330,2024-07-28,LinkedIn Learning,recruitment services QQ1,3205.93,IT,HR & Training
+1331,2024-07-12,ServiceNow,data analytics platform,38640.28,R&D,IT Software
+1332,2024-10-02,Maersk,warehouse storage fees,5609.93,R&D,Logistics/Freight
+1333,2024-06-01,Coursera Business,employee training program,30734.82,Legal,HR & Training
+1334,2024-06-26,ADP Workforce,HR software license,11405.46,IT,HR & Training
+1335,2024-08-02,Jones Lang LaSalle,building maintenance contract,24665.39,Executive,Facilities
+1336,2024-01-18,Office Depot,office supplies bulk order,1256.73,Legal,Office Supplies
+1337,2024-04-29,Aetna Health,employee health insurance QQ2,89419.09,Sales,Healthcare & Benefits
+1338,2024-04-29,Deloitte Consulting,tax advisory services,149087.68,Executive,Professional Services
+1339,2024-03-14,Celanese,chemical feedstock order,41797.62,Sales,Raw Materials
+1340,2024-10-29,PwC Advisory,legal counsel services,18534.07,IT,Professional Services
+1341,2024-11-25,Omnicom Group,digital advertising campaign,58475.96,R&D,Marketing
+1342,2024-07-11,Workday Inc,recruitment services QQ4,7670.27,IT,HR & Training
+1343,2024-12-28,ADP Workforce,HR software license,13427.98,IT,HR & Training
+1344,2024-03-09,American Airlines,car rentals fleet,8802.01,R&D,Travel
+1345,2024-08-18,Accenture,legal counsel services,100538.82,Procurement,Professional Services
+1346,2024-12-10,Maersk,international freight QQ2,8906.15,Executive,Logistics/Freight
+1347,2024-10-27,Aetna Health,dental and vision coverage,163860.36,Sales,Healthcare & Benefits
+1348,2024-01-08,PwC Advisory,legal counsel services,52446.32,HR,Professional Services
+1349,2024-12-26,Deloitte Consulting,audit and advisory fees,107387.68,HR,Professional Services
+1350,2024-09-30,Publicis Media,media buying QQ3,25936.4,Procurement,Marketing
+1351,2024-08-26,Aramark,security services,26718.73,Finance,Facilities
+1352,2024-01-24,United Airlines,hotel accommodations,5380.91,Executive,Travel
+1353,2024-10-26,McKinsey & Co,legal counsel services,87463.62,Executive,Professional Services
+1354,2024-07-13,Dentsu Inc,brand strategy project,23142.59,Executive,Marketing
+1355,2024-09-07,PwC Advisory,legal counsel services,116870.49,Legal,Professional Services
+1356,2024-10-06,Marriott Hotels,sales team flights,2959.42,Legal,Travel
+1357,2024-02-08,Atlassian,collaboration software,7536.78,Operations,IT Software
+1358,2024-03-18,Amazon Business,printer cartridges QQ2,1009.76,Operations,Office Supplies
+1359,2024-11-22,KPMG,legal counsel services,18463.02,Executive,Professional Services
+1360,2024-07-29,Hilton Worldwide,executive travel QQ1,8450.97,Operations,Travel
+1361,2024-01-09,Quill Corp,whiteboard supplies,7831.1,Sales,Office Supplies
+1362,2024-05-03,Publicis Media,digital advertising campaign,33841.2,HR,Marketing
+1363,2024-07-22,MetLife,prescription drug plan,64455.08,Finance,Healthcare & Benefits
+1364,2024-12-22,Honeywell Materials,packaging materials,35239.28,HR,Raw Materials
+1365,2024-07-12,CBRE Group,building maintenance contract,13347.79,Sales,Facilities
+1366,2024-08-10,American Airlines,sales team flights,2157.61,Procurement,Travel
+1367,2024-12-20,Aetna Health,dental and vision coverage,54112.16,Executive,Healthcare & Benefits
+1368,2024-05-23,United Airlines,executive travel QQ1,10582.0,Sales,Travel
+1369,2024-04-16,Aetna Health,prescription drug plan,17896.75,Executive,Healthcare & Benefits
+1370,2024-05-03,ServiceNow,cybersecurity tools,17183.77,Executive,IT Software
+1371,2024-03-12,Omnicom Group,creative production,46558.51,Finance,Marketing
+1372,2024-02-08,Workday Inc,employee training program,18609.35,Procurement,HR & Training
+1373,2024-05-19,MetLife,prescription drug plan,20480.75,Legal,Healthcare & Benefits
+1374,2024-08-09,Marriott Hotels,conference registration,14176.0,IT,Travel
+1375,2024-05-06,Cigna Corp,life insurance premium,69645.2,Finance,Healthcare & Benefits
+1376,2024-11-20,UPS Supply Chain,last-mile delivery,18656.9,IT,Logistics/Freight
+1377,2024-06-06,Dentsu Inc,digital advertising campaign,10033.62,Legal,Marketing
+1378,2024-08-08,Dow Chemical,chemical feedstock order,17777.29,Legal,Raw Materials
+1379,2024-06-30,Mercer,employee training program,2997.95,Sales,HR & Training
+1380,2024-07-30,Maersk,last-mile delivery,3271.49,R&D,Logistics/Freight
+1381,2024-12-16,Maersk,freight forwarding services,14464.3,R&D,Logistics/Freight
+1382,2024-03-15,Salesforce,cybersecurity tools,25130.51,Finance,IT Software
+1383,2024-02-09,ServiceNow,data analytics platform,27481.42,Procurement,IT Software
+1384,2024-08-22,Jones Lang LaSalle,security services,19266.73,Finance,Facilities
+1385,2024-11-13,Adobe Systems,data analytics platform,29916.29,R&D,IT Software
+1386,2024-11-29,Honeywell Materials,adhesives and solvents,99333.25,Executive,Raw Materials
+1387,2024-04-12,Adobe Systems,collaboration software,76045.92,Legal,IT Software
+1388,2024-12-21,BASF Corp,specialty materials QQ4,40642.19,Legal,Raw Materials
+1389,2024-07-20,UnitedHealth Group,wellness program,66855.53,Procurement,Healthcare & Benefits
+1390,2024-04-02,Maersk,freight forwarding services,24939.83,Sales,Logistics/Freight
+1391,2024-12-20,Amazon Business,ergonomic chairs,6482.64,Finance,Office Supplies
+1392,2024-12-03,IPG Mediabrands,media buying QQ2,18311.16,IT,Marketing
+1393,2024-09-02,IPG Mediabrands,creative production,59488.53,Executive,Marketing
+1394,2024-07-03,Omnicom Group,social media management,7022.08,Sales,Marketing
+1395,2024-06-30,Aetna Health,dental and vision coverage,136656.3,IT,Healthcare & Benefits
+1396,2024-08-08,Aetna Health,prescription drug plan,193657.6,Finance,Healthcare & Benefits
+1397,2024-09-22,Staples Inc,printer cartridges QQ3,4330.07,Sales,Office Supplies
+1398,2024-08-25,MetLife,wellness program,84212.12,Executive,Healthcare & Benefits
+1399,2024-05-31,Coursera Business,employee training program,20345.3,R&D,HR & Training
+1400,2024-08-21,DHL Express,warehouse storage fees,9861.59,HR,Logistics/Freight
+1401,2024-12-22,ADP Workforce,recruitment services QQ3,5709.68,Legal,HR & Training
+1402,2024-02-28,3M Company,polymer resin batch,98740.82,Operations,Raw Materials
+1403,2024-10-09,3M Company,chemical feedstock order,65791.32,IT,Raw Materials
+1404,2024-07-26,Celanese,adhesives and solvents,33967.82,IT,Raw Materials
+1405,2024-04-11,ServiceNow,annual software license renewal,60304.13,Legal,IT Software
+1406,2024-04-15,Cigna Corp,employee health insurance QQ4,145376.09,Marketing,Healthcare & Benefits
+1407,2024-06-15,Maersk,freight forwarding services,7113.12,HR,Logistics/Freight
+1408,2024-11-23,American Airlines,car rentals fleet,8388.01,Procurement,Travel
+1409,2024-06-29,Cigna Corp,life insurance premium,36132.93,Legal,Healthcare & Benefits
+1410,2024-12-10,UnitedHealth Group,life insurance premium,124181.15,IT,Healthcare & Benefits
+1411,2024-07-10,3M Company,specialty materials QQ2,21098.28,IT,Raw Materials
+1412,2024-07-15,ADP Workforce,payroll processing,7238.96,R&D,HR & Training
+1413,2024-05-27,ServiceNow,collaboration software,17514.91,IT,IT Software
+1414,2024-07-02,Adobe Systems,collaboration software,9020.84,Operations,IT Software
+1415,2024-09-15,Marriott Hotels,car rentals fleet,14493.61,Legal,Travel
+1416,2024-02-12,IPG Mediabrands,creative production,31878.47,Executive,Marketing
+1417,2024-10-02,Office Depot,office supplies bulk order,2561.4,Marketing,Office Supplies
+1418,2024-10-20,ServiceNow,collaboration software,43310.45,Finance,IT Software
+1419,2024-01-22,ABM Industries,security services,25033.11,Legal,Facilities
+1420,2024-11-30,Coursera Business,employee training program,29967.57,HR,HR & Training
+1421,2024-02-14,CBRE Group,HVAC repair and maintenance,11760.16,Legal,Facilities
+1422,2024-12-29,FedEx Freight,freight forwarding services,18160.94,Executive,Logistics/Freight
+1423,2024-01-31,Publicis Media,brand strategy project,49744.14,Executive,Marketing
+1424,2024-06-14,Celanese,packaging materials,68342.08,Marketing,Raw Materials
+1425,2024-12-13,ABM Industries,security services,29593.67,Finance,Facilities
+1426,2024-03-05,ServiceNow,cybersecurity tools,70028.57,IT,IT Software
+1427,2024-12-12,McKinsey & Co,audit and advisory fees,116606.3,R&D,Professional Services
+1428,2024-02-08,Marriott Hotels,car rentals fleet,6252.41,Finance,Travel
+1429,2024-09-06,Omnicom Group,media buying QQ3,30008.26,Procurement,Marketing
+1430,2024-12-23,Aetna Health,wellness program,132445.5,Procurement,Healthcare & Benefits
+1431,2024-04-18,Maersk,domestic shipping services,24298.83,Legal,Logistics/Freight
+1432,2024-03-07,Aramark,HVAC repair and maintenance,17324.69,Executive,Facilities
+1433,2024-08-23,United Airlines,executive travel QQ1,2394.05,Operations,Travel
+1434,2024-08-07,FedEx Freight,last-mile delivery,3014.87,HR,Logistics/Freight
+1435,2024-07-03,Adobe Systems,cybersecurity tools,12000.5,Marketing,IT Software
+1436,2024-06-05,UPS Supply Chain,international freight QQ2,11719.51,HR,Logistics/Freight
+1437,2024-02-09,WPP Group,digital advertising campaign,16738.16,IT,Marketing
+1438,2024-06-24,UnitedHealth Group,employee health insurance QQ4,16491.58,Finance,Healthcare & Benefits
+1439,2024-02-15,Publicis Media,digital advertising campaign,17592.08,Finance,Marketing
+1440,2024-03-09,UPS Supply Chain,warehouse storage fees,6016.84,IT,Logistics/Freight
+1441,2024-08-13,Maersk,freight forwarding services,17300.44,Procurement,Logistics/Freight
+1442,2024-04-21,McKinsey & Co,tax advisory services,106119.26,Finance,Professional Services
+1443,2024-06-28,FedEx Freight,freight forwarding services,19060.2,R&D,Logistics/Freight
+1444,2024-05-07,BASF Corp,specialty materials QQ2,80197.5,Sales,Raw Materials
+1445,2024-12-03,MetLife,employee health insurance QQ3,171860.04,Marketing,Healthcare & Benefits
+1446,2024-01-28,KPMG,strategy engagement QQ2,51375.89,HR,Professional Services
+1447,2024-10-31,Hilton Worldwide,sales team flights,7994.16,Finance,Travel
+1448,2024-10-18,LinkedIn Learning,benefits administration,7015.35,R&D,HR & Training
+1449,2024-02-07,Celanese,adhesives and solvents,114898.73,Operations,Raw Materials
+1450,2024-01-31,Aetna Health,prescription drug plan,54912.44,R&D,Healthcare & Benefits
+1451,2024-02-12,Workday Inc,recruitment services QQ4,28668.8,Sales,HR & Training
+1452,2024-02-10,Mercer,benefits administration,5176.69,Sales,HR & Training
+1453,2024-11-28,McKinsey & Co,strategy engagement QQ3,92101.2,Finance,Professional Services
+1454,2024-08-10,Sodexo,building maintenance contract,8845.43,Finance,Facilities
+1455,2024-12-02,Hertz,hotel accommodations,10325.11,IT,Travel
+1456,2024-06-26,DHL Express,international freight QQ2,6604.32,Sales,Logistics/Freight
+1457,2024-05-17,Workday Inc,benefits administration,6823.36,Finance,HR & Training
+1458,2024-05-14,W.B. Mason,stationery and paper,4428.91,Executive,Office Supplies
+1459,2024-09-12,XPO Logistics,freight forwarding services,10922.73,Executive,Logistics/Freight
+1460,2024-10-20,Adobe Systems,cybersecurity tools,62999.67,Finance,IT Software
+1461,2024-01-07,KPMG,management consulting project,130216.46,HR,Professional Services
+1462,2024-04-01,Amazon Business,ergonomic chairs,7401.7,Operations,Office Supplies
+1463,2024-06-12,ADP Workforce,benefits administration,11434.0,Marketing,HR & Training
+1464,2024-01-27,Maersk,international freight QQ3,14044.9,IT,Logistics/Freight
+1465,2024-08-26,KPMG,strategy engagement QQ1,19649.7,Marketing,Professional Services
+1466,2024-07-07,Aramark,security services,14788.89,HR,Facilities
+1467,2024-07-07,ABM Industries,security services,8792.35,Executive,Facilities
+1468,2024-07-28,Marriott Hotels,sales team flights,1089.29,Operations,Travel
+1469,2024-01-01,KPMG,management consulting project,143138.64,R&D,Professional Services
+1470,2024-08-02,CBRE Group,security services,29527.24,Legal,Facilities
+1471,2024-04-28,Office Depot,office supplies bulk order,829.25,Sales,Office Supplies
+1472,2024-09-15,Dentsu Inc,digital advertising campaign,36942.38,IT,Marketing
+1473,2024-03-07,WPP Group,creative production,41434.42,HR,Marketing
+1474,2024-06-16,Aramark,cafeteria management QQ3,21620.32,Procurement,Facilities
+1475,2024-03-10,United Airlines,executive travel QQ2,14209.77,Executive,Travel
+1476,2024-06-09,FedEx Freight,domestic shipping services,12890.47,R&D,Logistics/Freight
+1477,2024-08-25,Maersk,domestic shipping services,12942.18,Marketing,Logistics/Freight
+1478,2024-12-22,DHL Express,warehouse storage fees,21180.51,Executive,Logistics/Freight
+1479,2024-05-07,Office Depot,printer cartridges QQ3,1184.1,Procurement,Office Supplies
+1480,2024-03-30,Omnicom Group,media buying QQ1,19309.17,Operations,Marketing
+1481,2024-03-12,IPG Mediabrands,digital advertising campaign,30412.38,Finance,Marketing
+1482,2024-07-24,Staples Inc,printer cartridges QQ2,1986.0,Procurement,Office Supplies
+1483,2024-02-03,Maersk,international freight QQ3,3479.6,HR,Logistics/Freight
+1484,2024-08-24,Marriott Hotels,hotel accommodations,2715.39,Operations,Travel
+1485,2024-07-14,Atlassian,data analytics platform,42209.48,R&D,IT Software
+1486,2024-08-16,Adobe Systems,cloud computing QQ2,25623.63,IT,IT Software
+1487,2024-10-08,Quill Corp,stationery and paper,4241.69,Legal,Office Supplies
+1488,2024-04-12,Staples Inc,ergonomic chairs,1529.27,Sales,Office Supplies
+1489,2024-07-02,KPMG,strategy engagement QQ1,119468.21,Legal,Professional Services
+1490,2024-07-17,ADP Workforce,payroll processing,21090.94,Marketing,HR & Training
+1491,2024-05-23,Microsoft Azure,collaboration software,21426.51,Operations,IT Software
+1492,2024-03-22,Hertz,conference registration,14994.48,Finance,Travel
+1493,2024-01-29,McKinsey & Co,tax advisory services,124279.92,HR,Professional Services
+1494,2024-10-30,Cigna Corp,dental and vision coverage,47578.57,Procurement,Healthcare & Benefits
+1495,2024-10-15,Celanese,specialty materials QQ1,114126.58,IT,Raw Materials
+1496,2024-09-08,UnitedHealth Group,life insurance premium,72174.82,Operations,Healthcare & Benefits
+1497,2024-09-26,DHL Express,freight forwarding services,7813.8,Legal,Logistics/Freight
+1498,2024-03-31,W.B. Mason,printer cartridges QQ2,3055.69,Procurement,Office Supplies
+1499,2024-03-13,Staples Inc,whiteboard supplies,5785.22,Finance,Office Supplies
+1500,2024-12-05,Workday Inc,benefits administration,28772.44,R&D,HR & Training
