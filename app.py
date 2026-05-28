@@ -288,7 +288,7 @@ with col_risk:
         return f"background-color: {colors.get(val, 'white')}"
 
     st.dataframe(
-        display.style.applymap(style_risk, subset=["Risk"]),
+        display.style.map(style_risk, subset=["Risk"]),
         use_container_width=True, hide_index=True
     )
 
